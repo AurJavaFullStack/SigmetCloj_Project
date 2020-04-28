@@ -34,6 +34,7 @@
                          (/ (q/height) 2)]
       (q/image (:logo state) (- x 60) (- y 60) 120 120))))
 
+(+ 1 2)
 (q/defsketch welcometoclojurebridge
   :title "Welcome To ClojureBridge!"
   :size [650 500]
